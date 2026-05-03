@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "firebase": {
+      "command": "C:\\Program Files\\nodejs\\npx.cmd",
+      "args": [
+        "-y",
+        "firebase-tools@latest",
+        "mcp"
+      ]
+    }
+  }
+}
